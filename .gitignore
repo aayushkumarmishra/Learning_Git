@@ -1,4 +1,5 @@
-ignore.txt
-*.a
-*.[ao]
-/todo
+#ignore.txt - to ignore file.
+#*.a - to ignore all .a extension files.
+#*.[ao] - to ignore all .o and .a extension files.
+#/todo - to ignore todo in current folder.
+#subDir/ - to ignore any folder
